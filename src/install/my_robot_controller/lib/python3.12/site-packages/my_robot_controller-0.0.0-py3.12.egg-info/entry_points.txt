@@ -1,0 +1,2 @@
+[console_scripts]
+wasd_node = my_robot_controller.wasd_control:main

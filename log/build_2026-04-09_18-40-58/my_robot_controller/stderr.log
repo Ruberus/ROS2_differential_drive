@@ -1,0 +1,5 @@
+  File "/home/ruby/dev_ws/install/my_robot_controller/lib/python3.12/site-packages/my_robot_controller/wasd_control.py", line 54
+    if __name__=='main'
+                       ^
+SyntaxError: expected ':'
+
